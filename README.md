@@ -5,7 +5,7 @@ Project live: <a href="https://evening-river-54465.herokuapp.com/">App live</a>
 
 # Features to come
 <ul>
-  <li>Informtion About Camp Owner</li>
+  <li>Information About Camp's Owner</li>
   <li>Map with campground location</li>
   <li>Integration with google Maps</li>
  </ul>
